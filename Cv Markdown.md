@@ -10,7 +10,8 @@ Reconversion vers IT (systèmes, réseaux, sécurité). Approche terrain : compr
 - Documentation : Markdown (rendus courts et clairs).
 
 ## Expérience (anonymisée)
-### Responsable / Manager (secteur retail/service) — plusieurs années
+### Responsable / Manager (secteur retail/service)
+
 - Organisation, priorisation, gestion des imprévus au quotidien.
 - Relation client, communication, reporting.
 - Encadrement et coordination d’équipe.
@@ -21,3 +22,4 @@ Reconversion vers IT (systèmes, réseaux, sécurité). Approche terrain : compr
 ## Projets / Pratique (lab)
 - Mise en place d’un environnement d’entraînement sous VirtualBox (VM, réglages, tests).
 - Exercices terminal : navigation, création/renommage/déplacement/suppression de fichiers, documentation de procédures.
+[82aaab2d8afb55bbec27e77b1ec821cc](https://github.com/user-attachments/assets/ebc7ae40-ac3d-4e2e-894a-125e928e59d4)
