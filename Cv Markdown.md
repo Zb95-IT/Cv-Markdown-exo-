@@ -22,5 +22,6 @@ Reconversion vers IT (systèmes, réseaux, sécurité). Approche terrain : compr
 ## Projets / Pratique (lab)
 - Mise en place d’un environnement d’entraînement sous VirtualBox (VM, réglages, tests).
 - Exercices terminal : navigation, création/renommage/déplacement/suppression de fichiers, documentation de procédures.
-![Mon image](82aaab2d8afb55bbec27e77b1ec821cc](https://github.com/user-attachments/assets/ebc7ae40-ac3d-4e2e-894a-125e928e59d4)
+![Mon image]
+![82aaab2d8afb55bbec27e77b1ec821cc](https://github.com/user-attachments/assets/eea250bd-6211-42a4-84b7-d5af4b0a5359)
 
